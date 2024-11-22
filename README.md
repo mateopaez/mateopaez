@@ -2,8 +2,8 @@
 
 - 📌 Currently based out of Edmonton, Alberta
 - ✨ I am a Full-Stack developer
-- 🔍 Looking into NLP and interested in making AI applications
 - 💖 Love to investigate new ideas and bring them to life!
+- 🔍 Looking into NLP and interested in making AI applications
 - 💻 Also a competitive esports player who travels to different countries and competes in tournaments!
 
 ## 🧭 Learn More
